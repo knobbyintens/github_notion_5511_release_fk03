@@ -1,0 +1,11 @@
+{
+  "task": "email-blaster",
+  "owner": "dmitri",
+  "owner_display": "Dmitri Volkov",
+  "status": "blocked",
+  "sprint": "S38",
+  "priority": "Low",
+  "version": "0.1.0",
+  "entrypoint": "campaigns/send.py",
+  "test_count": 5
+}
