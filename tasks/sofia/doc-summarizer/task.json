@@ -1,0 +1,11 @@
+{
+  "task": "doc-summarizer",
+  "owner": "sofia",
+  "owner_display": "Sofia Alvarez",
+  "status": "implemented",
+  "sprint": "S35",
+  "priority": "Medium",
+  "version": "0.8.4",
+  "entrypoint": "summarizer/main.py",
+  "test_count": 55
+}
