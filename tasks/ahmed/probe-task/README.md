@@ -1,3 +1,0 @@
-# probe
-
-test content
