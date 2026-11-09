@@ -1,0 +1,11 @@
+{
+  "task": "payment-gateway",
+  "owner": "lucas",
+  "owner_display": "Lucas Meyer",
+  "status": "in-progress",
+  "sprint": "S37",
+  "priority": "Critical",
+  "version": "0.5.0",
+  "entrypoint": "payments/gateway.py",
+  "test_count": 21
+}
