@@ -1,0 +1,11 @@
+{
+  "task": "pdf-ocr",
+  "owner": "ahmed",
+  "owner_display": "Amir Ahmed",
+  "status": "in-progress",
+  "sprint": "S38",
+  "priority": "Medium",
+  "version": "0.3.0",
+  "entrypoint": "ocr/preprocess.py",
+  "test_count": 12
+}
