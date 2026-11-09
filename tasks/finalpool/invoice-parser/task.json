@@ -1,0 +1,11 @@
+{
+  "task": "invoice-parser",
+  "owner": "priya",
+  "owner_display": "Priya Raman",
+  "status": "implemented",
+  "sprint": "S35",
+  "priority": "Critical",
+  "version": "2.1.3",
+  "entrypoint": "service/parse_invoice.py",
+  "test_count": 88
+}

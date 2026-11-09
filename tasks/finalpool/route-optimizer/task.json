@@ -1,0 +1,11 @@
+{
+  "task": "route-optimizer",
+  "owner": "dmitri",
+  "owner_display": "Dmitri Volkov",
+  "status": "implemented",
+  "sprint": "S36",
+  "priority": "High",
+  "version": "3.0.1",
+  "entrypoint": "solver/optimize.py",
+  "test_count": 96
+}
